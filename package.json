@@ -2,7 +2,7 @@
   "name": "expansetra",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://azeem521.github.io",
+  "homepage": "https://azeem521.github.io/expansetra",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
